@@ -1,5 +1,5 @@
-<div aling="center">
-  <h1>Hi, I am Jon</h1>
+<div align="center">
+  <h1 align="center">Hi, I am Jon</h1>
 </div>
 <!--
 **JonAlvz/JonAlvz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
