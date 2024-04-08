@@ -2,7 +2,7 @@
   <h1 align="center">Hi, I am Jon</h1>
 </div>
 
-<img src="https://img.shields.io/badge/C%C3%9Angular-cfaae0?style=for-the-badge&logo=angular&logoColor=black">
+<img src="https://img.shields.io/badge/Angular-cfaae0?style=for-the-badge&logo=angular&logoColor=red">
 <!--
 **JonAlvz/JonAlvz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
