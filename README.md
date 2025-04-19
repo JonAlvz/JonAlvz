@@ -58,7 +58,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JonAlvz&theme=tokyonight&hide=contribs,pr" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JonAlvz&include_all_commits=true&theme=tokyonight&hide=contribs,pr" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonAlvz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook" height="150" alt="languages graph" />
 </div>
 
