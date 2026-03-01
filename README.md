@@ -2,7 +2,6 @@
   <h1>Hi, I'm Jon Alvarez</h1>
   <h3>Software Developer &amp; Data Scientist</h3>
   <p>I build robust software solutions and turn data into actionable insights.<br/>Passionate about backend development, cloud architectures, and machine learning.</p>
----
 
 ### Languages
 
